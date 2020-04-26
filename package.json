@@ -11,7 +11,7 @@
     "hubot-redis-brain": "^1.0.0",
     "hubot-rules": "^1.0.0",
     "hubot-slack": "^4.7.2",
-    "todo": "../todo"
+    "todo": "https://github.com/TJuni12/todo/tree/master-2019"
   },
   "engines": {
     "node": "~10"
